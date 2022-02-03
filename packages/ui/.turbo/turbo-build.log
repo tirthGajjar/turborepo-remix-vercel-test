@@ -1,0 +1,15 @@
+[35mui:build: [0mcache hit, replaying output [2mce480af527b1016f[0m
+[35mui:build: [0m$ tsup src/index.tsx --format esm,cjs --dts --external react
+[35mui:build: [0mCLI Building entry: src/index.tsx
+[35mui:build: [0mCLI Using tsconfig: tsconfig.json
+[35mui:build: [0mCLI tsup v5.11.13
+[35mui:build: [0mCLI Target: node12
+[35mui:build: [0mESM Build start
+[35mui:build: [0mCJS Build start
+[35mui:build: [0mCJS ⚡️ Build success in 5ms
+[35mui:build: [0mESM ⚡️ Build success in 12ms
+[35mui:build: [0mCJS dist/index.js 1.85 KB
+[35mui:build: [0mESM dist/index.mjs 165.00 B
+[35mui:build: [0mDTS Build start
+[35mui:build: [0mDTS ⚡️ Build success in 464ms
+[35mui:build: [0mDTS dist/index.d.ts 61.00 B
